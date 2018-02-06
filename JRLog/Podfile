@@ -1,0 +1,7 @@
+platform :ios, ‘8.0’
+
+target 'JRLog' do
+
+  pod 'CocoaLumberjack' #logUtil
+
+end
